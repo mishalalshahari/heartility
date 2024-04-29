@@ -19,8 +19,15 @@ export default function Header() {
                 <Link to='about'>
                     <li className='hidden sm:inline text-slate-900 hover:underline'>About</li>
                 </Link>
-                <Link to='predict'>
+                {/* <Link to='predict'>
                     <li className='hidden sm:inline text-slate-900 hover:underline'>Predict</li>
+                </Link> */}
+                <Link to='predict'>
+                    { currentUser ? (
+                        <li className='hidden sm:inline text-slate-900 hover:underline'>Predict</li>
+                    ) : (
+                        <li hidden className='text-slate-900 hover:underline'>Login</li>
+                    )}
                 </Link>
                 <Link to='profile'>
                     { currentUser ? (

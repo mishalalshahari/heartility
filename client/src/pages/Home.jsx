@@ -12,7 +12,7 @@ export default function Home() {
           
         </div>
         <div className='p-3 max-w-lg mx-auto'>
-          <Link to='/login'>
+          <Link to='/predict'>
             <button className="bg-slate-700 text-white rounded-lg p-3 uppercase hover:opacity-90  ">Predict Now!</button>
           </Link>
         </div>
