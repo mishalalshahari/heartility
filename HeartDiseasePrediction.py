@@ -44,7 +44,7 @@ def get_medical_suggestions(input_data):
 # UI
 def main():
     # Set the page title and favicon
-    st.sidebar.markdown("<h1>Welcome in <span style='color:#d11111'>Heartility ❤️</span></h1>", unsafe_allow_html=True)
+    st.sidebar.markdown("<h1>Welcome to <span style='color:#d11111'>Heartility ❤️</span></h1>", unsafe_allow_html=True)
 
     # Create an expander in the sidebar
     with st.sidebar.expander("About"):
