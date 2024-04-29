@@ -75,9 +75,9 @@ def main():
     with st.sidebar.expander("Help & Support"):
         # Provide contact information for help or support
         st.write("For any queries or assistance, please contact us at:")
-        st.write("☎ Call us at: +91 9252365332")
+        st.write("☎ Call us at: +91 XXXXXXXXXX")
         st.write("✉ Email us at: help@heartility.com")
-        st.write("➤ Naini, Allahabad, Uttar Pradesh, India - 211008")
+        st.write("➤ Uttar Pradesh, India")
 
     # Setting up the app title and sidebar
     st.title("Know your heart's health now! 🩺")
