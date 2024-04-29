@@ -144,6 +144,6 @@ def main():
                 medical_suggestions = get_medical_suggestions(input_data)
                 st.subheader("Medical Suggestions")
                 st.write(medical_suggestions)
-
+    st.write("""<div style='text-align: center;'>Made by Team CentraByte ⚡</div>""", unsafe_allow_html=True)
 if __name__ == "__main__":
     main()
