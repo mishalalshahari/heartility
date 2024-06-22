@@ -9,8 +9,8 @@
 Heartilty is a comprehensive heart disease prediction system that leverages machine learning algorithms to predict the likelihood of heart disease based on various factors. The system consists of a frontend built using React, a backend developed using Node.js and Express, and a database powered by MongoDB. Additionally, the system integrates with a Python-based core project, Heartilty Core, which is deployed on Streamlit and interacted with through a sandbox environment.
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; margin: 20px;">
-  <img src="https://github.com/mishalalshahari/heartility/blob/main/blob/main/images/architecture.png" height="250" style="object-fit: contain; margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
-  <img src="https://github.com/mishalalshahari/heartility/blob/main/blob/main/images/workflow.png" height="250" style="object-fit: contain; margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
+  <img src="https://github.com/mishalalshahari/heartility/blob/main/blob/main/images/architecture.png" height="295" style="object-fit: contain; margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
+  <img src="https://github.com/mishalalshahari/heartility/blob/main/blob/main/images/workflow.png" height="320" style="object-fit: contain; margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
 </div>
 
 
