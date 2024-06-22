@@ -1,10 +1,17 @@
 # Heart Disease Prediction ❤️
 
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin: 20px;">
+  <img src="https://github.com/mishalalshahari/heartility/blob/main/blob/main/images/background.png" height="285" style="object-fit: contain; margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
+</div>
+
 ## Overview
 
 Heartilty is a comprehensive heart disease prediction system that leverages machine learning algorithms to predict the likelihood of heart disease based on various factors. The system consists of a frontend built using React, a backend developed using Node.js and Express, and a database powered by MongoDB. Additionally, the system integrates with a Python-based core project, Heartilty Core, which is deployed on Streamlit and interacted with through a sandbox environment.
-<img src="https://github.com/mishalalshahari/heartility/blob/main/images/architecture.png" width="300" />
-<img src="https://github.com/mishalalshahari/heartility/blob/main/images/workflow.png" width="300" />
+
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin: 20px;">
+  <img src="https://github.com/mishalalshahari/heartility/blob/main/blob/main/images/architecture.png" height="250" style="object-fit: contain; margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
+  <img src="https://github.com/mishalalshahari/heartility/blob/main/blob/main/images/workflow.png" height="250" style="object-fit: contain; margin: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
+</div>
 
 
 ## How to Use
@@ -75,8 +82,8 @@ The project is deployed on [Render](https://render.com/) and can be accessed at:
 This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for details.
 
 ## Acknowledgments
-- [[Mishal Al Shahari](https://github.com/mishalalshahari)] for developing the Heartilty project
-- [[Navneet](https://github.com/navneetguptacse), [Ashwani Singh](), [Om Prakash]()] for their contributions to the project
+- [[Mishal Al Shahari](https://github.com/mishalalshahari/heartility)] for developing the Heartilty project
+- [[Navneet](https://github.com/navneetguptacse/heartility), [Ashwani Singh](https://github.com/iemashwani/heartility), [Om Prakash](https://github.com/<user_name>/heartility)] for their contributions to the project
 
 I hope this README file provides a comprehensive overview of the Heartilty project! Let me know if you need any further modifications.
 
