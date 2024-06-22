@@ -74,7 +74,7 @@ Contributions to the project are welcome! If you'd like to contribute, please fo
 
 ## Deployement
 The project is deployed on [Render](https://render.com/) and can be accessed at:
-- For hdps - core visit [here >>>](https://hdps-heartility.streamlit.app/)
+- For hdps - core visit [here >>>](https://heartility.streamlit.app/?embed=true)
 - For complete Project visit [here >>>](https://heartility.onrender.com/)
 
 ## License
